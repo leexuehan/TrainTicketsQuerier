@@ -10,7 +10,7 @@
 命令行格式
 
 Usage:
-    tickets [-gdtkz] <from> <to> <date>
+    python TicketsInfo [-gdtkz] <from> <to> <date>
 
 Options:
     -h,--help        显示帮助菜单
